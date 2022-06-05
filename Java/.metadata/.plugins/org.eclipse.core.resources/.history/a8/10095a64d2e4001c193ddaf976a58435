@@ -1,0 +1,27 @@
+package codingame_tests;
+
+
+class A{
+	
+}
+
+class B extends A{
+	void test() {
+		System.out.print("Good");
+	}
+}
+
+public class Solution1 {
+	
+	public static void main(String[] args) {
+		A a = new A();
+		A b = new B();
+		
+	}
+	
+
+}
+
+
+
+

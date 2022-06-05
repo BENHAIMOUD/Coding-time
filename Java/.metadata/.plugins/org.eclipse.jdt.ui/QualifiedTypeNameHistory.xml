@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="codingame_tests.Solution1"/>
+    <fullyQualifiedTypeName name="codingame_tests.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.nodes.EndLockScopeNode"/>
+    <fullyQualifiedTypeName name="codingame_tests.Cat"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
