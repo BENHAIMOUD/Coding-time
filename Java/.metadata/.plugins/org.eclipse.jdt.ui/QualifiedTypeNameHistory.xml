@@ -3,8 +3,21 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="codingame_tests.Solution1"/>
     <fullyQualifiedTypeName name="codingame_tests.Animal"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.nodes.EndLockScopeNode"/>
     <fullyQualifiedTypeName name="codingame_tests.Cat"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.core.common.PermanentBailoutException"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+    <fullyQualifiedTypeName name="test_freelance.Profile"/>
+    <fullyQualifiedTypeName name="test_freelance.Personne"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="partie_1.Terrain"/>
+    <fullyQualifiedTypeName name="partie_1.Joueur"/>
+    <fullyQualifiedTypeName name="codingame_tests.SumMultiples3_5_7"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
